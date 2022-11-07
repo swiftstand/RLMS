@@ -20,14 +20,6 @@ This React application is an online classroom portal that incorporates various s
 - Configured WebPack to run on Node, for rapid development
 - Created unit tests with Jasmine and Karma
 
-### Features and Services
-###### end-to-end service (developed by)
-- Forum ([Alex](#developers))
-- User ([Cory](#developers))
-- Login & Sign Up ([DeShon](#developers))
-- Exam ([Isaiah](#developers))
-- Curriculum ([Jordan](#developers))
-- Admin  ([Justin](#developers))
 
 ### Technologies
 - React JS
