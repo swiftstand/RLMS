@@ -50,10 +50,3 @@ The webhost will run on localhost:3000
 ##### File Structure
 Store your components in their respected folders under app/dev and they we automatically transpiled into their respected bundle.
 
-### Developers
-- Alex Redmon
-- Cory Davenport
-- DeShon Thomas-Wright
-- Isaias Cervantes
-- Jordan Clarke
-- Justin Atkinson
